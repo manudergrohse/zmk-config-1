@@ -11,7 +11,7 @@
 				// | ESC |  1  |  2  |  3  |  4  |  5  |  6  |  7  |  8  |  9  |  0  |  -  |  =  |   BKSP   |
 				// | TAB  |  Q  |  W  |  E  |  R  |  T  |  Y  |  U  |  I  |  O  |  P  |  [  |  ]  |         |
 				// | CTL  |  A  |  S  |  D  |  F  |  G  |  H  |  J  |  K  |  L  |  ;  |  '  |  #   | ENTER |
-				// |  SHIFT | |  |  Z  |  X  |  C  |  V  |  B  |  N  |  M  |  ,  |  .  | /   |MT(SHIFT, UP) |
+				// |  LSHIFT | &bootloader  |  Z  |  X  |  C  |  V  |  B  |  N  |  M  |  ,  |  .  | /   |&mt RSHIFT UP |
 				// |  CTL  |  WIN  |  ALT  |                     SPACE        |   RALT | LEFT| DOWN | RIGHT |
 				// ------------------------------------------------------------------------------------------
 			bindings = <
